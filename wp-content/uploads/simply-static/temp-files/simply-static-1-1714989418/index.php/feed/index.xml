@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nav</title>
+	<atom:link href="https://navedkhawer.github.io/nav/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>https://navedkhawer.github.io/nav</link>
+	<description></description>
+	<lastBuildDate>Mon, 06 May 2024 09:02:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>SAAS LANDING PAGE USING ELEMENTOR FLEXBOX</title>
+		<link>https://navedkhawer.github.io/nav/index.php/2024/05/06/saas-landing-page-using-elementor-flexbox/</link>
+					<comments>https://navedkhawer.github.io/nav/index.php/2024/05/06/saas-landing-page-using-elementor-flexbox/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:02:49 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://navedkhawer.github.io/nav/?p=27</guid>
+
+					<description><![CDATA[ISLAMABAD: Warren Buffett took a cautionary stance on artificial intelligence on Saturday at Berkshire Hathaway’s annual meeting, comparing the technology once again to the advent of nuclear weapons and warning about the potential for scams, reported the Fox News. “I don’t know anything about AI,” the billionaire investor and co-founder of Berkshire Hathaway admitted, “but [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>ISLAMABAD: Warren Buffett took a cautionary stance on artificial intelligence on Saturday at Berkshire Hathaway’s annual meeting, comparing the technology once again to the advent of nuclear weapons and warning about the potential for scams, reported the Fox News.</p>
+<p>“I don’t know anything about AI,” the billionaire investor and co-founder of Berkshire Hathaway admitted, “but that doesn’t mean I deny its existence or importance or anything of the sort.”</p>
+<p>He reiterated what he said last year: “That we let a genie out of the bottle when we developed nuclear weapons. And that genie has been now doing some terrible things lately. And the power of that genie is, you know, scares the hell out of me. And on the other hand, I don’t know any way to get the genie back in the bottle.”</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://navedkhawer.github.io/nav/index.php/2024/05/06/saas-landing-page-using-elementor-flexbox/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
